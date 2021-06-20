@@ -20,6 +20,19 @@ I used Proof of Stake for consensus and was able to mine the blocks using the no
 - Interact with the Blockchain using get / post requests in flask using Postman.
 
 
+
+
+## Optimizations
+
+The performance of the network can be optimised using different consensus algorithms such algorithms
+
+- Proof of Stake
+- Practical Byzantine Fault Tolerance (PBFT)
+- Proof of Storage
+- Proof of Burn
+- Proof of elapsed time 
+
+
   
 ## Feedback
 
