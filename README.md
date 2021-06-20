@@ -11,9 +11,9 @@ I used Proof of Stake for consensus and was able to mine the blocks using the no
   
 ## What the Blockchain does
 
-- Initialise the Blockchain with a Genesis Block
-- Record the transactions in the ( memo ) and add it to the next block
-- Mine the Block using Proof of stake.
+- Initialises the chain with a Genesis Block
+- Records the transactions in the ( memo ) and add it to the next block
+- Mines the Block using Proof of stake.
 - Each Block contains Timestamp, proof , Hash of the previous Block and Transactions on the network.
 - The miner recieves awards for mining the block and all other transactions are verified.
 - The longest chain is dominant and replaces all the smaller ones
