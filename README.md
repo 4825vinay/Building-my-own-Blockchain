@@ -24,7 +24,7 @@ I used Proof of Stake for consensus and was able to mine the blocks using the no
 
 ## Optimizations
 
-The performance of the network can be optimised using different consensus algorithms such algorithms
+The performance of the network can be optimised using different consensus algorithms such as
 
 - Proof of Stake
 - Practical Byzantine Fault Tolerance (PBFT)
